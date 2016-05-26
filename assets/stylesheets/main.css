@@ -316,8 +316,8 @@ a:hover {
     line-height: 1.05;
     letter-spacing: -0.06em;
     font-weight: 400;
-    margin-bottom: 30px;
-    margin-left: -0.05em
+    margin-bottom: 20px;
+    margin-left: 0em
 }
 .slides h1.huge,
 .slides .h1.huge {
@@ -444,7 +444,7 @@ small.small {
 @media screen and (max-width: 767px) {
     .slides h1,
     .slides .h1 {
-        font-size:36px
+        font-size:50px
     }
     .slides h1.huge,
     .slides .h1.huge {
@@ -473,7 +473,7 @@ small.small {
 @media screen and (max-width: 320px) {
     .slides h1.huge,
     .slides .h1.huge {
-        font-size: 366px
+        font-size: 50px
     }
 }
 .button {
